@@ -1,0 +1,96 @@
+/* Card.css */
+/* .card_carosel {
+    width: auto;
+    /* border: 1px solid #180910; 
+    height: max-content;
+    margin: 6%;
+    background-color: rgb(233, 235, 236);
+    border-radius: 12px solid rgb(51, 51, 56);
+    /* padding: 5px; 
+    float: left;
+  } */
+
+/* .card_carosel{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+  float: left;
+  padding: 0 10px;
+} */
+  .s-card{
+    /* margin: 25px; */
+    margin: 5%;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: M#ddd7d7;
+    width: auto;
+    border-radius: 5%;
+    font-size: 20px;
+    font: bold;
+    font-style:oblique;
+    box-shadow: 0px 13px 10px -7px rgba(241, 238, 238, 0.1);
+    float: left;
+    padding: 0 5px;
+  
+    }
+
+  .cards {
+    width: 100%;
+    height: auto;
+  }
+  /* .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  } */
+  .s-img {
+   
+    height: 120px;
+    column-count: 2;
+     border-radius: 5%;
+   align-self: center;
+  }
+  .card-img-top{
+    width: 120px;
+  }
+  
+  .card-content {
+    text-align: center;
+    text-transform:"uppercase";
+    height: auto;
+    color: #d17016;
+    
+  }
+
+  /* Styles for the react-slick carousel
+.slick-slider {
+    margin: 0 -10px; /* Adjust margin for slick-slider 
+  }
+  
+  .slick-prev,
+  .slick-next {
+    font-size: 20px;
+  }
+  
+  .slick-dots {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .slick-dots li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+   */
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .cards {
+      width: 100%;
+    }
+    
+  }
+
+ 
+  
