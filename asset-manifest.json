@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.26f267b6.chunk.css",
-    "main.js": "/static/js/main.aba9f361.chunk.js",
-    "main.js.map": "/static/js/main.aba9f361.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.91c6a37f.js",
-    "runtime~main.js.map": "/static/js/runtime~main.91c6a37f.js.map",
-    "static/css/2.75bc9036.chunk.css": "/static/css/2.75bc9036.chunk.css",
-    "static/js/2.ac6c7857.chunk.js": "/static/js/2.ac6c7857.chunk.js",
-    "static/js/2.ac6c7857.chunk.js.map": "/static/js/2.ac6c7857.chunk.js.map",
-    "static/js/3.18a8d937.chunk.js": "/static/js/3.18a8d937.chunk.js",
-    "static/js/3.18a8d937.chunk.js.map": "/static/js/3.18a8d937.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69cc053e9bc56652414b488e086d7fa8.js": "/precache-manifest.69cc053e9bc56652414b488e086d7fa8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.75bc9036.chunk.css.map": "/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.26f267b6.chunk.css.map": "/static/css/main.26f267b6.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.06e73328.svg"
+    "main.css": "/Hotel/static/css/main.26f267b6.chunk.css",
+    "main.js": "/Hotel/static/js/main.aba9f361.chunk.js",
+    "main.js.map": "/Hotel/static/js/main.aba9f361.chunk.js.map",
+    "runtime~main.js": "/Hotel/static/js/runtime~main.d6b56afc.js",
+    "runtime~main.js.map": "/Hotel/static/js/runtime~main.d6b56afc.js.map",
+    "static/css/2.75bc9036.chunk.css": "/Hotel/static/css/2.75bc9036.chunk.css",
+    "static/js/2.ac6c7857.chunk.js": "/Hotel/static/js/2.ac6c7857.chunk.js",
+    "static/js/2.ac6c7857.chunk.js.map": "/Hotel/static/js/2.ac6c7857.chunk.js.map",
+    "static/js/3.18a8d937.chunk.js": "/Hotel/static/js/3.18a8d937.chunk.js",
+    "static/js/3.18a8d937.chunk.js.map": "/Hotel/static/js/3.18a8d937.chunk.js.map",
+    "index.html": "/Hotel/index.html",
+    "precache-manifest.86d9a6d7e9887962ed79e5bf3052338d.js": "/Hotel/precache-manifest.86d9a6d7e9887962ed79e5bf3052338d.js",
+    "service-worker.js": "/Hotel/service-worker.js",
+    "static/css/2.75bc9036.chunk.css.map": "/Hotel/static/css/2.75bc9036.chunk.css.map",
+    "static/css/main.26f267b6.chunk.css.map": "/Hotel/static/css/main.26f267b6.chunk.css.map",
+    "static/media/logo.svg": "/Hotel/static/media/logo.06e73328.svg"
   }
 }
