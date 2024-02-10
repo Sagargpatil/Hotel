@@ -1,7 +1,7 @@
 import { faFacebook, faInstagram, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react'
-import { BsInfoCircle, BsInfoSquare, BsInfoSquareFill } from "react-icons/bs"
+import {  BsInfoSquareFill } from "react-icons/bs"
 import { NavLink, useNavigate } from 'react-router-dom';
 
 const Footer=()=> {
