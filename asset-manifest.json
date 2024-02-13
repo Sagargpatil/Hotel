@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Hotel/static/css/main.26f267b6.chunk.css",
-    "main.js": "/Hotel/static/js/main.aba9f361.chunk.js",
-    "main.js.map": "/Hotel/static/js/main.aba9f361.chunk.js.map",
-    "runtime~main.js": "/Hotel/static/js/runtime~main.d6b56afc.js",
-    "runtime~main.js.map": "/Hotel/static/js/runtime~main.d6b56afc.js.map",
-    "static/css/2.75bc9036.chunk.css": "/Hotel/static/css/2.75bc9036.chunk.css",
-    "static/js/2.ac6c7857.chunk.js": "/Hotel/static/js/2.ac6c7857.chunk.js",
-    "static/js/2.ac6c7857.chunk.js.map": "/Hotel/static/js/2.ac6c7857.chunk.js.map",
-    "static/js/3.18a8d937.chunk.js": "/Hotel/static/js/3.18a8d937.chunk.js",
-    "static/js/3.18a8d937.chunk.js.map": "/Hotel/static/js/3.18a8d937.chunk.js.map",
-    "index.html": "/Hotel/index.html",
-    "precache-manifest.86d9a6d7e9887962ed79e5bf3052338d.js": "/Hotel/precache-manifest.86d9a6d7e9887962ed79e5bf3052338d.js",
-    "service-worker.js": "/Hotel/service-worker.js",
-    "static/css/2.75bc9036.chunk.css.map": "/Hotel/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.26f267b6.chunk.css.map": "/Hotel/static/css/main.26f267b6.chunk.css.map",
-    "static/media/logo.svg": "/Hotel/static/media/logo.06e73328.svg"
+    "main.css": "/hotel/static/css/main.26f267b6.chunk.css",
+    "main.js": "/hotel/static/js/main.aba9f361.chunk.js",
+    "main.js.map": "/hotel/static/js/main.aba9f361.chunk.js.map",
+    "runtime~main.js": "/hotel/static/js/runtime~main.394f8a16.js",
+    "runtime~main.js.map": "/hotel/static/js/runtime~main.394f8a16.js.map",
+    "static/css/2.75bc9036.chunk.css": "/hotel/static/css/2.75bc9036.chunk.css",
+    "static/js/2.ac6c7857.chunk.js": "/hotel/static/js/2.ac6c7857.chunk.js",
+    "static/js/2.ac6c7857.chunk.js.map": "/hotel/static/js/2.ac6c7857.chunk.js.map",
+    "static/js/3.18a8d937.chunk.js": "/hotel/static/js/3.18a8d937.chunk.js",
+    "static/js/3.18a8d937.chunk.js.map": "/hotel/static/js/3.18a8d937.chunk.js.map",
+    "index.html": "/hotel/index.html",
+    "precache-manifest.189a8446380e35e497ae6e6c62e1ffa5.js": "/hotel/precache-manifest.189a8446380e35e497ae6e6c62e1ffa5.js",
+    "service-worker.js": "/hotel/service-worker.js",
+    "static/css/2.75bc9036.chunk.css.map": "/hotel/static/css/2.75bc9036.chunk.css.map",
+    "static/css/main.26f267b6.chunk.css.map": "/hotel/static/css/main.26f267b6.chunk.css.map",
+    "static/media/logo.svg": "/hotel/static/media/logo.06e73328.svg"
   }
 }
