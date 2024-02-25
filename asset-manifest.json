@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hotel/static/css/main.64362154.chunk.css",
+    "main.css": "/hotel/static/css/main.e553d5b4.chunk.css",
     "main.js": "/hotel/static/js/main.e53173ac.chunk.js",
     "main.js.map": "/hotel/static/js/main.e53173ac.chunk.js.map",
     "runtime~main.js": "/hotel/static/js/runtime~main.394f8a16.js",
@@ -11,10 +11,10 @@
     "static/js/3.18a8d937.chunk.js": "/hotel/static/js/3.18a8d937.chunk.js",
     "static/js/3.18a8d937.chunk.js.map": "/hotel/static/js/3.18a8d937.chunk.js.map",
     "index.html": "/hotel/index.html",
-    "precache-manifest.3383f76af1bfd330da0ca571fc617422.js": "/hotel/precache-manifest.3383f76af1bfd330da0ca571fc617422.js",
+    "precache-manifest.d90b21de7eae82f465724d1786f99d2f.js": "/hotel/precache-manifest.d90b21de7eae82f465724d1786f99d2f.js",
     "service-worker.js": "/hotel/service-worker.js",
     "static/css/2.75bc9036.chunk.css.map": "/hotel/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.64362154.chunk.css.map": "/hotel/static/css/main.64362154.chunk.css.map",
+    "static/css/main.e553d5b4.chunk.css.map": "/hotel/static/css/main.e553d5b4.chunk.css.map",
     "static/media/logo.svg": "/hotel/static/media/logo.06e73328.svg"
   }
 }
